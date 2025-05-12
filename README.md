@@ -92,6 +92,9 @@ api-events/
 ├── .gitignore
 └── README.md
 ```
+# postman
+https://speeding-moon-983512.postman.co/workspace/My-Workspace~8ac3ce6e-3ed9-4909-8c78-a42dae66ed30/collection/20616451-23ed8a08-c736-4f9a-8595-8fe29b0f96f4?action=share&creator=20616451&active-environment=20616451-6967aee7-fe27-42b0-bacd-1246b8ef1b06
+
 📝 Licencia
 SOLO PARA PRUEBA TÉCNICA
 Este código se proporciona únicamente para evaluación en una prueba técnica.
